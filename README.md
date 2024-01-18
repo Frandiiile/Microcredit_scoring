@@ -19,7 +19,7 @@ The project uses a dataset in Stata format (`your_dataset.dta`) containing surve
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/microcredit-scoring.git
+    git clone https://github.com/Frandiiiile/Microcredit_scoring.git
     ```
 
 ## Usage
