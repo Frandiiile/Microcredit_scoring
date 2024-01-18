@@ -12,7 +12,7 @@ This project focuses on leveraging machine learning techniques to build a predic
 
 ## Dataset
 
-The project uses a dataset in Stata format (`your_dataset.dta`) containing survey responses from microcredit applicants. The dataset includes various features that are crucial for assessing credit risk.
+The project uses a dataset in Stata format (`Microcredit_in_Theory_and_Practice.dta`) containing survey responses from microcredit applicants. The dataset includes various features that are crucial for assessing credit risk.
 
 ## Setup
 
