@@ -22,12 +22,6 @@ The project uses a dataset in Stata format (`Microcredit_in_Theory_and_Practice.
     git clone https://github.com/Frandiiiile/Microcredit_scoring.git
     ```
 
-## Usage
-
-Explore the project through Jupyter notebooks, scripts, and modules organized in the repository. The project includes:
-
-- `notebooks/`: Jupyter notebooks for in-depth analysis.
-
 ## Models
 
 The project employs various machine learning models for microcredit scoring, including Random Forest, SVM, KNN, Gaussian Naive Bayes, and XGBoost.
